@@ -1,0 +1,27 @@
+h1{
+ font-size:120px;
+ font-weight:bold;
+ font-family:'Montserrat Alternates', sans-serif;
+ margin-top:10%;
+}
+
+.temperature h1{
+ font-size:160px;
+}
+h2{
+ font-family:'Montserrat Alternates', sans-serif;
+
+}
+.city{
+ color:#5F9F9F;
+}
+span{
+ font-size:.7em;
+ color: #162252;
+}
+.icon{
+ font-size:20px;
+}
+.temperature{
+ margin-top:-50px;
+}
